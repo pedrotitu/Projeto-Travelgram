@@ -1,0 +1,1 @@
+Neste projeto, foi feita uma página de Perfil de viagens seguindo um layout de figma proposto pelo Mayki Brito e desenvolvido pela Product Designer Ilana Mallak, ambos da RocketSeat. No módulo em que o projeto foi feito, o conhecimento em evidência é o conceito de FlexBox.
